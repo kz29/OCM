@@ -1,0 +1,6 @@
+Python>=3.8
+torch
+numpy
+matplotlib
+scikit-learn
+tqdm
